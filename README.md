@@ -1,2 +1,2 @@
-# JKR
-Learn Python and win the lottery.... what a bargain
+# Learn Python and win the lottery.... what a bargain
+
